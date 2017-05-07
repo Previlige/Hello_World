@@ -24,3 +24,4 @@ java.io.FileNotFoundException: /usr/local/Yozosoft/Yozo_Office/System/.link (Per
 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
 	at java.awt.EventDispatchThread.run(Unknown Source)
+	Fuck you jrj
